@@ -1,0 +1,18 @@
+C    AXEIO ƒEƒOMEN—N INHAM311
+C    •€€‰’†ˆ‘’ˆ‰€ ’Ž“ €‚—‚Ž“
+XL(M)     ‹†‰Ž‘ ’Ž“ €‚—‚Ž“             =  2200.
+DE(M)     „—’„ˆ‰† ƒˆ€‹„’Ž‘ €‚—‚Ž“   =  0.450
+ES(MM)    €•Ž‘ ’Žˆ•—‹€’Ž‘ €‚—‚Ž“      =  10.0
+ESS(MM)   ’€•“’†’€ ’Žˆ•—‹€’—Œ €‚—‚Ž“  =  0.5
+EL (GPa)  ‹„’Ž „Š‘’ˆ‰Ž’†’€‘ €‚—‚Ž“    =  210.
+C     •€€‰’†ˆ‘’ˆ‰€ ’Ž“ “‚Ž“
+DEN (KG/M3) “‰ŒŽ’†’€ ’Ž“ “‚Ž“        =  999.
+SYMP (GPa)  ‘“Œ’. ‘“‹ˆ„‘’Ž’†’€‘ “‚Ž“ =  2.19
+C
+HR(M)     “–Ž‹„’ˆ‰† ƒˆ€”Ž€           =  62.0
+CV0(-)    ‘“Œ’„Š„‘’†‘ €—Š„ˆ—Œ €ŒŒ€‘  = 150.0
+TC(SEC)   ƒˆ€‰„ˆ€ Š†Ž“‘ ‰Š„ˆ‘ˆ‹€’Ž‘ =  16.0
+TMAX(-)   TIME*T OF RUNNING OF THE PRO =  20.
+EM(-)     COEF. OF THE VALVE CLOSURE   =  3.2
+N(-)      NUMBER OF REACHES            =  12
+

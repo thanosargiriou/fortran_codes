@@ -1,0 +1,9 @@
+     INITIAL FLOW RATE          Q0=     .314 M3/SEC
+     INITIAL VELOCITY           V0=    2.161 M/SEC
+     INITIAL HEAD AT THE END H(N1)=   35.688 MWG
+     FRICTION LOSSES COEF.       F=    .0214 - 
+     INITIAL HEAD LOSSES       DHF=   26.074 MWG
+     WAVE PROPAGATION           A = 1230.243 M/SEC
+     CHARACTERISTIC TIME      2L/A=    3.577 SEC
+     TIME STEP                  DT=    .1490 SEC
+     MAX. OVERPRESSURE HMAX/H0    =    3.819 -

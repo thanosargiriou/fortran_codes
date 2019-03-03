@@ -1,0 +1,35 @@
+#Name of the file to be processed
+ ERYTHR.asc
+#Data start at line
+ 22
+#Number of columns (excluding time column)
+ 13
+#Time step (min)
+ 15
+#Number of criteria to be applied upon data
+ 3
+#For criterium 1, Indoor air velocity
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ -1000 1000 -1000 1000 -1000 1000
+#For criterium 2, Temperature
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ 10 40 -5  5  -5  5
+#For criterium 3, Relative Humidity
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ 10 80 -5  5 -5 +5
+#For each column no, enter the criterion type to be applied
+#Column no, Criterion
+ 1  1
+ 2  2
+ 3  2
+ 4  2
+ 5  2
+ 6  2
+ 7  2
+ 8  2
+ 9  2
+ 10 2
+ 11 2
+ 12 2
+ 13 3
+ 

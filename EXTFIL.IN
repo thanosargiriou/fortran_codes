@@ -1,0 +1,74 @@
+#Data start at line
+ 59
+#Number of columns
+ 46
+#Time step (min)
+ 5
+#Number of criteria to be applied upon data
+ 6
+#For criterium 1, Air velocity
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ 0 100 -1000 1000 -1000 1000
+#For criterium 2, Temperature
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ 0 45 -10  10  -5 5  -5  5
+#For criterium 3, Relative Humidity
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peak
+ 10 80 -10 10 -10 10
+#For criterium 4, Switch
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peaks
+ 0 1 -1000 1000 -1000 1000 
+#For criterium 5, Wind direction
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peaks
+ 0 360 -1000 1000 -1000 1000
+#For criterium 6, Solar radiation
+#Min. value, Max. value, Min. gradient, Max. gradient, Min peak, Max peaks
+ 0 1000 -500 500 -500 500
+#For each column no, enter the criterion type to be applied
+#Column no, Criterion
+ 1  2
+ 2  2
+ 3  2
+ 4  2
+ 5  2
+ 6  2
+ 7  2
+ 8  2
+ 9  2
+ 10 2
+ 11 2
+ 12 2
+ 13 2
+ 14 2
+ 15 2
+ 16 4
+ 17 2
+ 18 2
+ 19 2
+ 20 2
+ 21 2
+ 22 2
+ 23 2
+ 24 2
+ 25 2
+ 26 2
+ 27 2
+ 28 4
+ 29 4
+ 30 4
+ 31 5
+ 32 1
+ 33 3
+ 34 2
+ 35 2
+ 36 2
+ 37 2
+ 38 2
+ 39 2
+ 40 2
+ 41 2
+ 42 2
+ 43 2
+ 44 2
+ 45 6
+ 46 6
